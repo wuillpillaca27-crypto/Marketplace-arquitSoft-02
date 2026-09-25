@@ -9,3 +9,13 @@
 | **Servicio de envío** | Gestionar información de entrega. |
 | **Servicio de Facturación** | Generar comprobantes de pago. |
 | **ERP** | Proporcionar información de productos y stock. |
+
+## Detalle de Actores Principales
+
+### 1. Cliente
+- **Rol:** Usuario final comprador.
+- **Acciones clave:** Búsqueda en catálogo, gestión de carrito de compras, seguimiento de estados de pedido.
+
+### 2. Seller (Vendedor)
+- **Rol:** Comerciante o tienda asociada.
+- **Acciones clave:** Publicación de catálogo, actualización de stock, gestión de inventario y reporte de ventas.
