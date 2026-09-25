@@ -57,3 +57,5 @@ NEGOCIO --> DATOS
 
 %% Integraciones
 DATOS -->|"integraciones"| EXTERNOS
+
+Además, el módulo de **Pedidos** se integra con sistemas externos como la **pasarela de pago** y el **servicio de envío**.
