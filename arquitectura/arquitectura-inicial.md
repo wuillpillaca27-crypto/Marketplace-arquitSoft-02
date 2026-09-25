@@ -99,3 +99,8 @@ style Pago fill:#222,stroke:#fff,color:#fff
 style ERP fill:#222,stroke:#fff,color:#fff
 style Envio fill:#222,stroke:#fff,color:#fff
 ```
+
+
+## Descripción
+
+La arquitectura inicial se organiza en tres capas principales:
