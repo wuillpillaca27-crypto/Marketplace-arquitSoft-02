@@ -6,3 +6,4 @@
 | HU02 | Como seller, quiero registrar y gestionar mis productos, para ofrecerlos a los clientes. |
 | HU03 | Como cliente, quiero gestionar los productos de mi carrito, para preparar los productos que deseo comprar. |
 | HU04 | Como cliente, quiero realizar un pedido con los productos de mi carrito, para completar mi compra. |
+| HU05 | Como administrador, quiero gestionar los sellers de la plataforma, para administrar a los vendedores registrados. |
