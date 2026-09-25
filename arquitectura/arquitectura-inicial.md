@@ -47,3 +47,13 @@ subgraph EXTERNOS["SISTEMAS EXTERNOS"]
     ERP["ERP"]
     Envio["Servicio de envío"]
 end
+
+%% ===========================
+%% FLUJO PRINCIPAL
+%% ===========================
+ACTORES --> PRESENTACION
+PRESENTACION --> NEGOCIO
+NEGOCIO --> DATOS
+
+%% Integraciones
+DATOS -->|"integraciones"| EXTERNOS
