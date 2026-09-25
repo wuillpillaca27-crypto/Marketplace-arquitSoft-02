@@ -14,3 +14,10 @@
 - **Pedidos:** Procesamiento de órdenes y estados del pedido.
 - **Sellers:** Gestión de vendedores y sus catálogos.
 - **Usuarios:** Autenticación, perfiles y roles del sistema.
+
+## Justificación del Diseño
+
+La arquitectura de tres capas fue elegida para:
+1. **Desacoplamiento:** Permitir modificaciones en la interfaz o base de datos sin alterar la lógica del negocio.
+2. **Mantenibilidad:** Facilitar la localización de errores y la incorporación de nuevas funcionalidades.
+3. **Escalabilidad inicial:** Permitir una evolución ordenada hacia microservicios en caso de ser necesario.
