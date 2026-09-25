@@ -7,3 +7,9 @@
 | DA03 | El sistema debe proteger los datos de usuarios y operaciones de compra. | AC04 – Seguridad | Puede influir en autenticación, autorización y protección de datos. |
 | DA04 | El sistema debe integrarse con una pasarela de pago externa mediante una API. | RC04 - Pasarela de pago | Condiciona la forma de comunicación e integración con servicios externos. |
 | DA05 | El sistema debe utilizar una API REST para la comunicación entre frontend y backend. | RC03 – API REST | Limita las alternativas de comunicación entre las partes del sistema. |
+
+## Matriz de Impacto en Decisiones de Diseño
+
+- **Alto Impacto:** DA01, DA02 (definen la infraestructura, autoscaling y balanceo de carga).
+- **Medio Impacto:** DA03, DA04 (definen esquemas de autenticación JWT y comunicación con terceros).
+- **Impacto Estructural:** DA05 (define el desacoplamiento entre cliente y servidor).
