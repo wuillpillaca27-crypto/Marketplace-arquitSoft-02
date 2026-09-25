@@ -7,3 +7,4 @@
 | RC03 | **API REST** | La comunicación entre el frontend y los servicios del sistema debe realizarse mediante una API REST. |
 | RC04 | **Pasarela de pago** | El sistema debe integrarse con una pasarela de pago externa para procesar las operaciones de pago. |
 | RC05 | **Servicio de envío** | El sistema debe integrarse con un servicio externo de envío para gestionar la información relacionada con la entrega de pedidos. |
+| RC06 | **Protección de Datos** | El sistema debe cumplir con las normativas locales de protección de datos personales y privacidad del usuario. |
