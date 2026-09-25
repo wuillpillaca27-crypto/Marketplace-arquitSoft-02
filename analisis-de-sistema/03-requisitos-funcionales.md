@@ -8,3 +8,4 @@
 | RF04 | El sistema debe permitir agregar, modificar y eliminar productos del carrito de compra. |
 | RF06 | El sistema debe permitir consultar los pedidos realizados y su estado. |
 | RF06 | El sistema debe permitir consultar los pedidos realizados y su estado. |
+| RF07 | El sistema debe permitir registrar, actualizar y desactivar sellers de la plataforma. |
