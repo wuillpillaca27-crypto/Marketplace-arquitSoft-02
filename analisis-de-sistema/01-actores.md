@@ -25,3 +25,9 @@
 - **Pasarela de Pago:** Integración vía API REST para validación de tarjetas y transacciones en línea.
 - **Servicio de Envío:** Integración con proveedores logísticos para cotización y seguimiento de rastreo.
 - **ERP:** Conexión con sistemas de gestión empresarial para sincronización de inventario global.
+
+## Matriz de Interacción
+
+- **Cliente <-> Pasarela de Pago:** Pago de productos mediante checkout seguro.
+- **Seller <-> ERP:** Actualización masiva de productos y disponibilidad.
+- **Administrador <-> Todos los Actores:** Gestión de permisos, auditoría y soporte.
