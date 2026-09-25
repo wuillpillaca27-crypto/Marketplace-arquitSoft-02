@@ -6,3 +6,4 @@
 | RF02 | El sistema debe permitir consultar la información y disponibilidad de los productos. |
 | RF03 | El sistema debe permitir registrar y actualizar productos en la plataforma. |
 | RF04 | El sistema debe permitir agregar, modificar y eliminar productos del carrito de compra. |
+| RF06 | El sistema debe permitir consultar los pedidos realizados y su estado. |
