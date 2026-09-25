@@ -19,3 +19,9 @@
 ### 2. Seller (Vendedor)
 - **Rol:** Comerciante o tienda asociada.
 - **Acciones clave:** Publicación de catálogo, actualización de stock, gestión de inventario y reporte de ventas.
+
+## Integraciones y Sistemas Externos
+
+- **Pasarela de Pago:** Integración vía API REST para validación de tarjetas y transacciones en línea.
+- **Servicio de Envío:** Integración con proveedores logísticos para cotización y seguimiento de rastreo.
+- **ERP:** Conexión con sistemas de gestión empresarial para sincronización de inventario global.
