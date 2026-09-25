@@ -16,3 +16,5 @@
 | --- | --- |
 | HU01 Buscar y consultar productos | RF01, RF02 |
 | HU02 Gestionar productos | RF03 |
+| HU03 Gestionar carrito | RF04 |
+| HU04 Realizar pedido | RF05, RF08 |
