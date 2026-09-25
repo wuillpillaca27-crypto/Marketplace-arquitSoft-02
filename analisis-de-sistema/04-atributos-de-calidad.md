@@ -9,3 +9,9 @@
 | AC04 | **Seguridad** | Los datos de los usuarios, cuentas y operaciones de compra deben estar protegidos frente a accesos no autorizados. |
 | AC04 | **Seguridad** | Los datos de los usuarios, cuentas y operaciones de compra deben estar protegidos frente a accesos no autorizados. |
 | AC05 | **Mantenibilidad** | El sistema debe estar organizado de manera que permita realizar cambios y correcciones sin afectar innecesariamente otras funcionalidades. |
+
+## Métricas Sugeridas de Calidad
+
+- **Tiempo de respuesta:** Menor a 2 segundos en el 95% de las solicitudes.
+- **Uptime de disponibilidad:** 99.9% de operatividad garantizada.
+- **Seguridad:** Encriptación HTTPS (TLS 1.3) y hashes seguros para credenciales.
